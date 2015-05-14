@@ -1,0 +1,5 @@
+C:\Users\Sarah Fawzia K\Documents\Visual Studio 2012\Projects\onlineshoppingfinal\onlineshoppingfinal\bin\onlineshoppingfinal.dll
+C:\Users\Sarah Fawzia K\Documents\Visual Studio 2012\Projects\onlineshoppingfinal\onlineshoppingfinal\bin\onlineshoppingfinal.pdb
+C:\Users\Sarah Fawzia K\Documents\Visual Studio 2012\Projects\onlineshoppingfinal\onlineshoppingfinal\obj\Debug\onlineshoppingfinal.dll
+C:\Users\Sarah Fawzia K\Documents\Visual Studio 2012\Projects\onlineshoppingfinal\onlineshoppingfinal\obj\Debug\onlineshoppingfinal.pdb
+C:\Users\Sarah Fawzia K\Documents\Visual Studio 2012\Projects\onlineshoppingfinal\onlineshoppingfinal\obj\Debug\onlineshoppingfinal.csprojResolveAssemblyReference.cache
